@@ -136,8 +136,6 @@ In the `package.json` file, you will find the following scripts:
 
 ## Future Enhancements (Potential)
 
--   **Supabase Integration:** Migrate data persistence from local `posts.jsx` and `gallery.js` files to Supabase for dynamic content management, user comments, and more.
--   **Stripe Integration:** Implement a subscription model or paid content features using Stripe Checkout.
 -   **Dark Mode Toggle:** Allow users to switch between light and dark themes.
 -   **Advanced Search & Filtering:** More sophisticated search capabilities for blog posts.
 -   **User Authentication:** Allow users to create accounts, save favorite posts, or submit their own stories.
