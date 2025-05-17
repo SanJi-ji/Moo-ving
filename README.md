@@ -136,9 +136,21 @@ In the `package.json` file, you will find the following scripts:
 
 ## Future Enhancements (Potential)
 
+-   **Supabase Integration:** Migrate data persistence from local `posts.jsx` and `gallery.js` files to Supabase for dynamic content management, user comments, and more.
+-   **Stripe Integration:** Implement a subscription model or paid content features using Stripe Checkout.
 -   **Dark Mode Toggle:** Allow users to switch between light and dark themes.
 -   **Advanced Search & Filtering:** More sophisticated search capabilities for blog posts.
 -   **User Authentication:** Allow users to create accounts, save favorite posts, or submit their own stories.
 -   **Internationalization (i18n):** Support for multiple languages.
+
+## Contributing
+
+This project is currently maintained by Hostinger Horizons. For major changes, please discuss what you would like to change first.
+
+## License
+
+This project is created for demonstration purposes. Please ensure you have the rights to use any images or content if you plan to use this as a template for a public-facing website.
+
+---
 
 Enjoy exploring "Moo-ving Through Mindanao"!
