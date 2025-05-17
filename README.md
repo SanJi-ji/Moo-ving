@@ -143,14 +143,4 @@ In the `package.json` file, you will find the following scripts:
 -   **User Authentication:** Allow users to create accounts, save favorite posts, or submit their own stories.
 -   **Internationalization (i18n):** Support for multiple languages.
 
-## Contributing
-
-This project is currently maintained by Hostinger Horizons. For major changes, please discuss what you would like to change first.
-
-## License
-
-This project is created for demonstration purposes. Please ensure you have the rights to use any images or content if you plan to use this as a template for a public-facing website.
-
----
-
 Enjoy exploring "Moo-ving Through Mindanao"!
